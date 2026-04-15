@@ -1,8 +1,8 @@
 console.log("JavaScript carregado!");
 //Cotação de moedas do dia
-const USD = 5.18
-const EUR = 5.97
-const GBP = 6.84
+const USD = 4.99
+const EUR = 5.89
+const GBP = 6.78
 
 //Obtendo os elementos do formulário
 const form = document.querySelector("form")
