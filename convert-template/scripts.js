@@ -1,8 +1,8 @@
 console.log("JavaScript carregado!");
-//Cotação de moedas do dia
-const USD = 4.99
-const EUR = 5.89
-const GBP = 6.78
+//Cotação de moedas do dia (atualizada em 16/07/2026)
+const USD = 5.08
+const EUR = 5.81
+const GBP = 6.85
 
 //Obtendo os elementos do formulário
 const form = document.querySelector("form")
